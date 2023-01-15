@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 node_modules
 /build
@@ -8,3 +9,6 @@ node_modules
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+=======
+/node_modules
+>>>>>>> 6eec8b862a7e6634463f8e1362aaab2280239b01
