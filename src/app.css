@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+	width: 8.5in;
+	height: 12in;
+	margin: 0 0 0 0;
+}
+
+@media print {
+	body {
+		width: 8.5in;
+		height: 11in;
+		margin: 0 0 0 0;
+	}
+}
