@@ -1,5 +1,5 @@
 <script>
-	import Section from 'C:/Users/HAKE2/Documents/Svelte/my-cv/src/component/Shared/Section/Section.svelte';
+	import Section from '../Shared/Section/Section.svelte';
 	import Contact from './Contact/Contact.svelte';
 </script>
 
